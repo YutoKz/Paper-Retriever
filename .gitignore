@@ -12,3 +12,4 @@ wheels/
 pyproject.toml
 requirements.lock
 requirements-dev.lock
+local_qdrant
